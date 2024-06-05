@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeel Mehta</h1>
-<h3 align="center">A data science enthusiast from India</h3>
+<h3 align="center">A Researcher, Developer and Engineer from India</h3>
 
 - 📫 How to reach me **mehta.zeeld@gmail.com**
+- 👩‍💻 Website: https://zeellm.github.io/zeelmehta/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
